@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 
+I’m a Recruitment Consultant at Switch Game, specialized in helping talented Java and .NET developers in Stockholm find their next career step.  
+
+## 🔍 What I do
+- Connect developers with exciting product companies and consultancies  
+- Focus on Java, .NET, DevOps, and cloud professionals  
+- Always open for a coffee chat about your career ☕  
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hanna-liljegren-77047a166/) or at hanna@switchgame.se
+
 
 <!--
 **hannaSG418/hannaSG418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
